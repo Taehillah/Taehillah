@@ -9,7 +9,5 @@
 - 💬 Ask me about anything fullstack.
 - 📫 Reach me on www.ishmaelmafole.com or ishmaelmafole@gmail.com
 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="Anurag's GitHub stats (https://github-readme-stats.vercel.app/api?username=Taehillah)(https://github.com/Taehillah/github-readme-stats)
-">
-</picture>
+Anurag's GitHub stats (https://github-readme-stats.vercel.app/api?username=Taehillah)(https://github.com/Taehillah/github-readme-stats)
+
