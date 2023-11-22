@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a few applications, mainly VB, PHP and Android(Java). 
 - 🌱 Learning Flutter to develop hybrid Mobile Apps.
 - 👯 I’m looking to collaborate on the Visual Basic Applications.
-- 🤔 I may improve more on stability and system security.
+- 🤔 I may improve more on systems' stability and security.
 - 💬 Ask me anything about the Repos I made.
 - 📫 Reach me on www.ishmaelmafole.com or ishmaelmafole@gmail.com
 
