@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on the Visual Basic Applications.
 - 🤔 I may improve more on systems' sticking to a single languuage.
 - 💬 Ask me anything about the Repos I made.
-- 📫 Reach me on www.ishmaelmafole.com or ishmaelmafole@gmail.com
+- 📫 Reach me on www.ishmaelmafole.co.za or ishmaelmafole@gmail.com
 
 ![Ishmael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehillah&show_icons=true&theme=transparent)
 
